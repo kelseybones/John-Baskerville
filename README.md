@@ -10,3 +10,7 @@ AAD115 John Baskerville Project
 [Version 3](http://kelseybones.github.io/John-Baskerville/Version-3.html) - Added links 
 
 [Version 4](http://kelseybones.github.io/John-Baskerville/Version-4.html) - Added CSS
+
+[Version 5](http://kelseybones.github.io/John-Baskerville/Version-5.html) - Added CSS
+
+[Version 6](http://kelseybones.github.io/John-Baskerville/Version-6.html) - Added CSS

@@ -11,6 +11,6 @@ AAD115 John Baskerville Project
 
 [Version 4](http://kelseybones.github.io/John-Baskerville/Version-4.html) - Added CSS
 
-[Version 5](http://kelseybones.github.io/John-Baskerville/Version-5.html) - Added CSS
+[Version 5](http://kelseybones.github.io/John-Baskerville/Version-5.html) - Messed around with CSS
 
-[Version 6](http://kelseybones.github.io/John-Baskerville/Version-6.html) - Added CSS
+[Version 6](http://kelseybones.github.io/John-Baskerville/Version-6.html) - Added External Style Sheet

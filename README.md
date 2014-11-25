@@ -14,3 +14,5 @@ AAD115 John Baskerville Project
 [Version 5](http://kelseybones.github.io/John-Baskerville/Version-5.html) - Messed around with CSS
 
 [Version 6](http://kelseybones.github.io/John-Baskerville/Version-6.html) - Added External Style Sheet, Baskerville font and auto resizing images. 
+
+[Version 7](http://kelseybones.github.io/John-Baskerville/Version-7.html) - Added responsive container

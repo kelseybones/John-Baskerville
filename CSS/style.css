@@ -2,7 +2,6 @@
         background: #fcf4dc;
         font-family: 'Libre Baskerville', serif;
         color: #77777;  
-        border: 2px solid #ddd;
     }
         
     h1, h2 {
@@ -26,29 +25,44 @@
         padding-bottom: 10px;
         text-decoration: underline;
     }
+
+    small {
+        font-size: 10px;
+    }
         
     .subtitle {
         font-style: italic;
+        padding-top: 20px
     }
         
     .intro {
         font-style: italic;
         font-size: 17px;
         text-align: center;
-        padding-left: 100px;
-        padding-right: 100px;
+        padding-left: 50px;
+        padding-right: 50px;
     }
         
     .start {
         text-align: center;
-        padding-left: 100px;
-        padding-right: 100px;
+        padding-left: 50px;
+        padding-right: 50px;
     }
         
     .end {
         text-align: center;
-        padding-left: 100px;
-        padding-right: 100px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .container {
+      width: 600px;
+      margin: 35px auto 25px;
+      background-color: #fdfbeb;
+      padding: 0 60px 30px;
+      border-radius: 25px;
+      border-style: solid
+      border-color: black;
     }
     
     a {
@@ -96,3 +110,11 @@
         display: inline;
         margin: 10px;
     }
+
+    @media only screen and (max-width: 600px) {
+
+      .container {
+        width: 90%;
+        margin-top: 50px;
+        padding: 0 30px 30px;
+      }

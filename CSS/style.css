@@ -1,0 +1,96 @@
+    body {
+        background: #fcf4dc;
+        font-family: 'Libre Baskerville', serif;
+        color: #77777;  
+        border: 2px solid #ddd;
+    }
+        
+    h1, h2 {
+        font-weight: normal;
+        text-align: center;
+        margin: 10px 0 10px 0;
+    }
+     
+    h1 {
+        font-size: 36px;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        margin-top: 40px;
+    }
+        
+    h2 {
+        font-size: 24px;
+        color: #303030;
+        letter-spacing: 1px;
+        padding-top: 5px;
+        padding-bottom: 10px;
+        text-decoration: underline;
+    }
+        
+    .subtitle {
+        font-style: italic;
+    }
+        
+    .intro {
+        font-style: italic;
+        font-size: 17px;
+        text-align: center;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+        
+    .start {
+        text-align: center;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+        
+    .end {
+        text-align: center;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    
+    a {
+        font-size: 12px;
+        color: navy;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+        
+    a:hover {
+        text-decoration: underline;
+        color: red;
+    }
+        
+    nav {
+        border-top: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+    }
+        
+    nav ul {
+        text-align: center;
+        list-style-type: none;
+    }
+        
+    nav ul li {
+        display: inline;
+        margin: 10px;
+    }
+        
+    img {
+        display: block;
+        margin: 0 auto;
+    }
+        
+    ul {
+        text-align: center;
+        list-style-type: none;
+        padding: 5px 0 10px 0;
+    }
+        
+    ul li {
+        display: inline;
+        margin: 10px;
+    }
